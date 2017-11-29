@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+          "nianji": "一1年级",
+          "class": "2班",
+          "name": ["张三", "彰武", "张烈"],
+          "status": true
+        },
+        {
+          "nianji": "一11年级",
+          "class": "2班",
+          "name": ["张三", "彰武", "张烈"],
+          "status": false
+        },
+        {
+          "nianji": "一111年级",
+          "class": "2班",
+          "name": ["张三", "彰武", "张烈"],
+          "status": true
+        }
+
+    ]
+}
